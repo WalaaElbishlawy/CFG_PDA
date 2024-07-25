@@ -1,4 +1,3 @@
-# CFG_PDA
 # PDA & CFG Problems Solver
 
 ## Overview
